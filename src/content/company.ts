@@ -146,9 +146,9 @@ export const company = {
       note: "Accountable for the operating standard across both divisions.",
     },
     {
-      name: "Desire Tuyisenge",
+      name: "MUNEZERO Clément",
       role: "Head of Engineering",
-      initials: "DT",
+      initials: "MC",
       note: "Leads technical delivery, engineering and construction quality.",
     },
     {
